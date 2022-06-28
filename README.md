@@ -8,4 +8,4 @@ Edite o campo ( name="javax.persistence.jdbc.user" value=" " name="javax.persist
 
 Crie um novo SCHEMA no banco de dados com o nome "JPACrud"
 
-Importe o projeto MAVEN (File -> Import -> Maven -> Existing Maven Projects) na IDE para que as dependências sejam baixadas
+Importe o projeto MAVEN (File -> Import -> Maven -> Existing Maven Projects) na IDE para que as dependências sejam baixadas.
